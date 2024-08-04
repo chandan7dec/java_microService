@@ -14,4 +14,7 @@ http://35.223.40.231:8000/actuator/health/readiness
 http://34.45.205.27:8000/currency-exchange/from/USD/to/INR
 
 34.45.205.27
-http://34.45.205.27:8100/currency-conversion-feign/from/USD/to/INR/quantity/10
+34.118.228.243
+
+34.171.197.95
+http://34.171.197.95:8100/currency-conversion-feign/from/USD/to/INR/quantity/10
